@@ -1,27 +1,29 @@
-# Hi there, I'm Vivek J Dhamanemath 👋  
+# vivek-dhamanemath-projects
+
+Hi there, I'm Vivek J Dhamanemath 👋  
 Welcome to my GitHub profile! I'm a passionate software engineer specializing in Java full-stack development. With a solid foundation in technologies like HTML, CSS, and JavaScript, I enjoy creating user-friendly applications and collaborating on innovative projects.
 
 ## 🚀 Key Projects
 
 ### Java Full Stack Development
-- **Facial Recognition Attendance System**: Automated attendance system using OpenCV, Flask, and KNN algorithms. Features real-time detection, secure data management, and a user-friendly interface.
-- **Bank Management System**: A secure application built using Java and MySQL, featuring real-time balance updates, PIN changes, and fast transactions.
+- **[Facial Recognition Attendance System](link-to-repo)**: Automated attendance system using OpenCV, Flask, and KNN algorithms. Features real-time detection, secure data management, and a user-friendly interface.
+- **[Bank Management System](link-to-repo)**: A secure application built using Java and MySQL, featuring real-time balance updates, PIN changes, and fast transactions.
 
 ### Spring Core
-- **Project Name**: Brief description of the project.
-- **Project Name**: Brief description of the project.
+- **[Project Name](link-to-repo)**: Brief description of the project.
+- **[Project Name](link-to-repo)**: Brief description of the project.
 
 ### Hibernate
-- **Project Name**: Brief description of the project.
-- **Project Name**: Brief description of the project.
+- **[Project Name](link-to-repo)**: Brief description of the project.
+- **[Project Name](link-to-repo)**: Brief description of the project.
 
 ### JDBC
-- **Project Name**: Brief description of the project.
-- **Project Name**: Brief description of the project.
+- **[Project Name](link-to-repo)**: Brief description of the project.
+- **[Project Name](link-to-repo)**: Brief description of the project.
 
 ### Servlet
-- **Project Name**: Brief description of the project.
-- **Project Name**: Brief description of the project.
+- **[Project Name](link-to-repo)**: Brief description of the project.
+- **[Project Name](link-to-repo)**: Brief description of the project.
 
 ## 🛠️ Skills and Technologies
 
